@@ -21,8 +21,8 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ### Links
 
--   Solution URL: [URL here]()
--   Live Site URL: [Github Pages]()
+-   Solution URL: [TsbSankara Youtube](https://www.youtube.com/watch?v=9ROfWv981gg)
+-   Live Site URL: [Github Pages](https://tlbtrung-222.github.io/social-proof-section/)
 
 ## My process
 
